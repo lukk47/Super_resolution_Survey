@@ -1,4 +1,4 @@
-# Super_resolution_Survey for Huawei projects
+# Super_resolution_Survey
 
 List of reviewing papers
 
@@ -16,6 +16,10 @@ List of reviewing papers
 - DEGREE_2017_TIP_Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution
 - DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
 - EDSR_2017_CVPRW_Enhanced Deep Residual Networks for Single Image Super-Resolution
+  - arxiv: https://arxiv.org/abs/1707.02921
+  - github(Pytorch): https://github.com/thstkdgus35/EDSR-PyTorch
+  - github(Torch): https://github.com/LimBee/NTIRE2017
+  - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/EDSR.md)
 - GUN_2017_ArXiv_Gradual Upsampling Network for single image super-resolution
 - LapSRN_2017_CVPR_Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
 - SRGAN_2017_CVPR_Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
