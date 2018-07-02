@@ -1,4 +1,4 @@
-# Super_resolution_Survey
+# Super resolution Survey
 
 List of reviewing papers
 
