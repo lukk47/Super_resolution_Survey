@@ -5,6 +5,7 @@ ranks 2nd in terms of SSIM and 4th in terms of PSNR in the NTIRE2018 SISR challe
 - Generate and discriminate loss at different scales
 ## Architecture
 Dense compression unints
+![alt text](Arch.PNG)
 
 Discriminator
 
