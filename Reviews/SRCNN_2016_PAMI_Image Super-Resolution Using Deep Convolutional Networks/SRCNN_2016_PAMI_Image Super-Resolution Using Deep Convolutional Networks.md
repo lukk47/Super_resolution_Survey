@@ -7,7 +7,7 @@ ranks 2nd in terms of SSIM and 4th in terms of PSNR in the NTIRE2018 SISR challe
 ## Architecture
 ### The forward-inference network
 - Three-layers convolutional neural network
-![alt text](architectre.png)
+![alt text](architecture.png)
 
 ### Loss metric
 - PSNR, SSIM
