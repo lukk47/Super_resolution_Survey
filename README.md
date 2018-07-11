@@ -35,6 +35,7 @@ List of reviewing papers
   - github: https://github.com/xinntao/CVPR18-SFTGAN
 - 2018_CVPR_Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation
 - 2018_CVPR_SRMD_Learning a Single Convolutional Super-Resolution Network for Multiple Degradations
+  - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_a_Single_CVPR_2018_paper.pdf
 - Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs
   - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Deep_Photo_Enhancer_CVPR_2018_paper.pdf
   - github: https://github.com/nothinglo/Deep-Photo-Enhancer
