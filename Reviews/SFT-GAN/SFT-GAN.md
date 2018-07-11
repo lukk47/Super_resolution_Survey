@@ -21,7 +21,8 @@ Two branch for real/fake and class
 - Dataset: Imagenet
 - Evaluation metric:PSNR, SSIM
 - User study
-![alt text](experiment.PNG)
+
+![alt text](Experiment.PNG)
 
 ## Final summary
 ### Pros:
