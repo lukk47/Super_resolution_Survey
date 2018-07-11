@@ -31,6 +31,8 @@ List of reviewing papers
 - D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
 - RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
 - SFT-GAN_2018_CVPR_Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
+  - website: http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/
+  - github: https://github.com/xinntao/CVPR18-SFTGAN
 - 2018_CVPR_Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation
 - 2018_CVPR_SRMD_Learning a Single Convolutional Super-Resolution Network for Multiple Degradations
 - Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs
