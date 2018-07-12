@@ -33,6 +33,7 @@ List of reviewing papers
 - SFT-GAN_2018_CVPR_Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
   - website: http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/
   - github: https://github.com/xinntao/CVPR18-SFTGAN
+  - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/SFT-GAN/SFT-GAN.md)
 - 2018_CVPR_Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation
 - 2018_CVPR_SRMD_Learning a Single Convolutional Super-Resolution Network for Multiple Degradations
   - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_a_Single_CVPR_2018_paper.pdf
