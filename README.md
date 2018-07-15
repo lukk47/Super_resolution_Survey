@@ -2,13 +2,16 @@
 
 List of reviewing papers
 
-- SRCNN_2014_ECCV_Learning a Deep Convolutional Network for Image Super-Resolution                                                       
+- SRCNN_2014_ECCV_Learning a Deep Convolutional Network for Image Super-Resolution
+  Lok
 - SRCNN_2016_PAMI_Image Super-Resolution Using Deep Convolutional Networks
 - CSCN_2015_ICCV_Deep Networks for Image Super-Resolution with Sparse Prior
 - CSCN_2016_ACCV_Learning a Mixture of Deep Networks for Single Image Super-Resolution
 - CSCN_2016_PAMI_Robust Single Image Super-Resolution via Deep Networks with Sparse Prior
 - DRCN_2016_CVPR_Deeply-Recursive Convolutional Network for Image Super-Resolution
+  Lok
 - EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Synthesis
+  Lok
 - FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
 - VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
 - VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
@@ -23,6 +26,7 @@ List of reviewing papers
 - GUN_2017_ArXiv_Gradual Upsampling Network for single image super-resolution
 - LapSRN_2017_CVPR_Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
 - SRGAN_2017_CVPR_Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+  Lok
 - CincGan_2018_CVPR_Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks
 - EMBSR_2018_CVPR_Efficient Module Based Single Image Super Resolution for Multiple Problems
 - ProSR_2018_CVPR_A Fully Progressive Approach to Single-Image Super-Resolution
