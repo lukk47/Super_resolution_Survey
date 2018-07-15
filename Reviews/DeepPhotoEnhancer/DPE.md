@@ -15,12 +15,19 @@ contains a forward mapping and backward mapping and check the consistency.
 - L2
 - Loss function:
 Gen Loss:
+
 ![alt text](Gen.PNG)
+
 Cycle consistency loss:
+
 ![alt text](Cycle.PNG)
+
 Adversarial losses:
+
 ![alt text](Adversarial.PNG)
+
 Gradient penalty P:
+
 ![alt text](Gradient_penalty.PNG)
 
 ### Training strategy
