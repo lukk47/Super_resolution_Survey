@@ -1,5 +1,5 @@
 ## Short introduction
-ranks 2nd in terms of SSIM and 4th in terms of PSNR in the NTIRE2018 SISR challenge, runs 5 times faster than other submissions
+Training to mimic the professional PS skills
 ## Main contributions
 - Augment U-Net with global features
 - Improve WGAN with an adaptive weighting scheme
