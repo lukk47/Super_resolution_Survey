@@ -1,5 +1,4 @@
 # Super resolution Survey
-- ![#f03c15]
 
 List of reviewing papers
 
@@ -36,7 +35,10 @@ List of reviewing papers
 - EMBSR_2018_CVPR_Efficient Module Based Single Image Super Resolution for Multiple Problems
 - ProSR_2018_CVPR_A Fully Progressive Approach to Single-Image Super-Resolution
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/ProSR_2018_CVPR_A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution/ProSR.md)
+  
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 - DRRN_2018_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+
 - LRFNets_2018_CVPR_Large Receptive Field Networks for High-Scale Image Super-Resolution
 - D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
 - RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
