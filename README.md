@@ -41,6 +41,7 @@ List of reviewing papers
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) 2018_CVPR_SRMD_Learning a Single Convolutional Super-Resolution Network for Multiple Degradations
   - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_a_Single_CVPR_2018_paper.pdf
   - github: https://github.com/cszn/SRMD
+  - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/SRMD/SRMD.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs
   - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Deep_Photo_Enhancer_CVPR_2018_paper.pdf
   - github: https://github.com/nothinglo/Deep-Photo-Enhancer
