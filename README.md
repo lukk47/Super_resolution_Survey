@@ -7,7 +7,7 @@ List of reviewing papers
 - CSCN_2015_ICCV_Deep Networks for Image Super-Resolution with Sparse Prior
 - CSCN_2016_ACCV_Learning a Mixture of Deep Networks for Single Image Super-Resolution
 - CSCN_2016_PAMI_Robust Single Image Super-Resolution via Deep Networks with Sparse Prior
-- DRCN_2016_CVPR_Deeply-Recursive Convolutional Network for Image Super-Resolution
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) DRCN_2016_CVPR_Deeply-Recursive Convolutional Network for Image Super-Resolution
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Synthesis
 - FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
 - VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
