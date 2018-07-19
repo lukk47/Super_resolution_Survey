@@ -22,7 +22,8 @@ List of reviewing papers
   - github(Pytorch): https://github.com/thstkdgus35/EDSR-PyTorch
   - github(Torch): https://github.com/LimBee/NTIRE2017
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/EDSR_2017_CVPRW_Enhanced%20Deep%20Residual%20Networks%20for%20Single%20Image%20Super-Resolution/EDSR_2017_CVPRW_Enhanced%20Deep%20Residual%20Networks%20for%20Single%20Image%20Super-Resolution.md)
-- GUN_2017_ArXiv_Gradual Upsampling Network for single image super-resolution
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+)
+  GUN_2017_ArXiv_Gradual Upsampling Network for single image super-resolution
 - LapSRN_2017_CVPR_Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) SRGAN_2017_CVPR_Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CincGan_2018_CVPR_Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks
