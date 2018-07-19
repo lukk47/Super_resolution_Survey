@@ -2,8 +2,10 @@
 
 List of reviewing papers
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SRCNN_2014_ECCV_Learning a Deep Convolutional Network for Image Super-Resolution
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SRCNN_2016_PAMI_Image Super-Resolution Using Deep Convolutional Networks
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+  SRCNN_2014_ECCV_Learning a Deep Convolutional Network for Image Super-Resolution
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+  SRCNN_2016_PAMI_Image Super-Resolution Using Deep Convolutional Networks
 - CSCN_2015_ICCV_Deep Networks for Image Super-Resolution with Sparse Prior
 - CSCN_2016_ACCV_Learning a Mixture of Deep Networks for Single Image Super-Resolution
 - CSCN_2016_PAMI_Robust Single Image Super-Resolution via Deep Networks with Sparse Prior
@@ -28,11 +30,13 @@ List of reviewing papers
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) ProSR_2018_CVPR_A Fully Progressive Approach to Single-Image Super-Resolution
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/ProSR_2018_CVPR_A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution/ProSR.md)
   
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) DRRN_2018_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+  DRRN_2018_CVPR_Image Super-Resolution via Deep Recursive Residual Network
 
 - LRFNets_2018_CVPR_Large Receptive Field Networks for High-Scale Image Super-Resolution
 - D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
-- RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+  RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) SFT-GAN_2018_CVPR_Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
   - website: http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/
   - github: https://github.com/xinntao/CVPR18-SFTGAN
