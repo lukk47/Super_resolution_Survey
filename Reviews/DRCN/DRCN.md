@@ -20,15 +20,15 @@ Using recursive-supervision and skip-connection, combining all predictions resul
 
 	- Intermediate loss
 
-![alt text](Loss_inter.PNG)
+	![alt text](Loss_inter.PNG)
 
 	- Final output loss
 	
-![alt text](Loss_final.PNG)
+	![alt text](Loss_final.PNG)
 
 	- Final loss
 	
-![alt text](Loss_all.PNG)
+	![alt text](Loss_all.PNG)
 
 ### Training strategy
 - Starts by training only the 2× portion of the network
