@@ -34,7 +34,7 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
   - github(Torch): https://github.com/LimBee/NTIRE2017
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/EDSR_2017_CVPRW_Enhanced%20Deep%20Residual%20Networks%20for%20Single%20Image%20Super-Resolution/EDSR_2017_CVPRW_Enhanced%20Deep%20Residual%20Networks%20for%20Single%20Image%20Super-Resolution.md)
 
-- ![#003c15](https://placehold.it/15/003c15/000000?text=+)
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
   GUN_2017_ArXiv_Gradual Upsampling Network for single image super-resolution
 
 - LapSRN_2017_CVPR_Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
