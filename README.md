@@ -23,8 +23,8 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
 - FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
 - VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
 - VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
-- AffGAN_2017_ICLR_Amortised Map Inference for Image Super_Resolution
-- DEGREE_2017_TIP_Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) AffGAN_2017_ICLR_Amortised Map Inference for Image Super_Resolution
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) DEGREE_2017_TIP_Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution
 - DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) EDSR_2017_CVPRW_Enhanced Deep Residual Networks for Single Image Super-Resolution
@@ -42,7 +42,7 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CincGan_2018_CVPR_Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks
 
-- EMBSR_2018_CVPR_Efficient Module Based Single Image Super Resolution for Multiple Problems
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) EMBSR_2018_CVPR_Efficient Module Based Single Image Super Resolution for Multiple Problems
 
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) ProSR_2018_CVPR_A Fully Progressive Approach to Single-Image Super-Resolution
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/ProSR_2018_CVPR_A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution/ProSR.md)
