@@ -39,7 +39,7 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
 - LapSRN_2017_CVPR_Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
 
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) SRGAN_2017_CVPR_Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-  -arxiv: https://arxiv.org/abs/1609.04802
+  - arxiv: https://arxiv.org/abs/1609.04802
   - [review] (https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/SRGAN/SRGAN.md)
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CincGan_2018_CVPR_Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks
 
