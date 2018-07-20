@@ -15,16 +15,21 @@ Intergration of all losses inclduing perceptual, texture and adversarial losses.
 
 - Loss function:
 	- Perceptual loss:
+	
 	![alt text](Perc_loss.png)
+	
 	Feature extracted from pretrained vgg19
 	Combination of 2th and 5th pooling layers
 	MSE
 	- Texture loss:
+	
 	![alt text](Text_loss.png)
+	
 	Patch size 16X16
 	Conv layers of first three groups in VGG
 	- Adversarial loss:
-	![alt text](adverasrial_training.png)
+	
+	![alt text](adversarial_training.png)
 
 ### Training strategy
 - Starts by training only the 2× portion of the network
