@@ -48,7 +48,7 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
 
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) EMBSR_2018_CVPR_Efficient Module Based Single Image Super Resolution for Multiple Problems
   - cvf: http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Park_Efficient_Module_Based_CVPR_2018_paper.pdf
-  - [review]()
+  - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/EMBSR/EMBSR.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) ProSR_2018_CVPR_A Fully Progressive Approach to Single-Image Super-Resolution
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/ProSR/ProSR.md)
   
