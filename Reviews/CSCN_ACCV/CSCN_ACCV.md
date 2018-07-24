@@ -1,16 +1,16 @@
 ## Short introduction
-Sparse coding and deep learning
+Multiple SCNs merged by weight maps
 ## Main contributions
-- combine sparse coding and deep learning
-- using network cascading
-- conduct a subjective evaluation
+- combine predictions from multiple subspace of LR
 ## Architecture
 ### Overall
 ![alt text](Arch.PNG)
 
-### Cascade with mnulti-scale objectives
-![alt text](Cascade.PNG)
+### SCN module
+![alt text](SCN.PNG)
 
+### Inference module
+![alt text](Inference.PNG)
 
 ### Loss
 - MSE
@@ -28,15 +28,15 @@ Sparse coding and deep learning
 - Evaluation metric: PSNR
 - Patchsie: input 56 × 56 output 44 X 44
 - Dict: sparse coding, LR: 9X9 HR: 5 X 5
-- SGD
+- SGD, learning rate 0.00001, momentum 0.9
 
 
 ## Final summary
 ### Pros:
-- Combine sparse coding with deep learning as guidiance
+- 
 
 ### Cons:
 - 
 ### Tips:
-- Multi-scale objectives
+- Merging results from different predictions
 
