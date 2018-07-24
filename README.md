@@ -13,7 +13,7 @@ List of reviewing papers
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/CSCN_ICCV/CSCN_ICCV.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) CSCN_2016_ACCV_Learning a Mixture of Deep Networks for Single Image Super-Resolution
   - arxiv: https://arxiv.org/pdf/1701.00823.pdf
-  - [review]()
+  - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/CSCN_ACCV/CSCN_ACCV.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) CSCN_2016_PAMI_Robust Single Image Super-Resolution via Deep Networks with Sparse Prior
   - [review]()
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) 
@@ -26,7 +26,7 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
   - github(tensorflow): https://github.com/msmsajjadi/EnhanceNet-Code
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/Enhancenet/Enhancenet.md)
 - FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
-- VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
 - VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
 - AffGAN_2017_ICLR_Amortised Map Inference for Image Super_Resolution
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) DEGREE_2017_TIP_Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution
