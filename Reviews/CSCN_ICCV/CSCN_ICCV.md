@@ -19,9 +19,7 @@ Sparse coding and deep learning
 ![alt text](loss.PNG)
 
 ### Training strategy
-- Starts by training only the 2× portion of the network
-- Incrementally add training pairs of the next scale
-- Randomly select one of the scales s to avoid mixing batch statistics
+
 
 ## Experiments
 - Dataset: 91
