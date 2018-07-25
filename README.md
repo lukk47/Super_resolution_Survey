@@ -16,7 +16,7 @@ List of reviewing papers
   - arxiv: https://arxiv.org/pdf/1701.00823.pdf
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/CSCN_ACCV/CSCN_ACCV.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) CSCN_2016_PAMI_Robust Single Image Super-Resolution via Deep Networks with Sparse Prior
-  - [review]()
+  - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/CSCN_PAMI/CSCN_PAMI.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) 
 DRCN_2016_CVPR_Deeply-Recursive Convolutional Network for Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1511.04491
