@@ -26,14 +26,20 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
   - arxiv: https://arxiv.org/abs/1612.07919
   - github(tensorflow): https://github.com/msmsajjadi/EnhanceNet-Code
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/Enhancenet/Enhancenet.md)
-- FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
+FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
+
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
 - VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
 - AffGAN_2017_ICLR_Amortised Map Inference for Image Super_Resolution
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) DEGREE_2017_TIP_Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1604.08671
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/DEGREE/DEGREE.md)
-- DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+)
+DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+  - [review](https://github.com/tyshiwo/DRRN_CVPR17)
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) EDSR_2017_CVPRW_Enhanced Deep Residual Networks for Single Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1707.02921
@@ -61,7 +67,9 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
   DRRN_2018_CVPR_Image Super-Resolution via Deep Recursive Residual Network
 
 - LRFNets_2018_CVPR_Large Receptive Field Networks for High-Scale Image Super-Resolution
-- D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
   RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
