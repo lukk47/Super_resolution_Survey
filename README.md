@@ -67,7 +67,9 @@ DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
   DRRN_2018_CVPR_Image Super-Resolution via Deep Recursive Residual Network
 
 - LRFNets_2018_CVPR_Large Receptive Field Networks for High-Scale Image Super-Resolution
-- D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
   RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
