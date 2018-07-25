@@ -36,7 +36,10 @@ FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) DEGREE_2017_TIP_Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1604.08671
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/DEGREE/DEGREE.md)
-- DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+)
+DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+  - [review](https://github.com/tyshiwo/DRRN_CVPR17)
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) EDSR_2017_CVPRW_Enhanced Deep Residual Networks for Single Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1707.02921
