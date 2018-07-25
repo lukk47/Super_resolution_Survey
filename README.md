@@ -26,7 +26,10 @@ EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Sy
   - arxiv: https://arxiv.org/abs/1612.07919
   - github(tensorflow): https://github.com/msmsajjadi/EnhanceNet-Code
   - [review](https://github.com/LokLu/Super_resolution_Survey/blob/master/Reviews/Enhancenet/Enhancenet.md)
-- FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
+FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
+
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
 - VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
 - AffGAN_2017_ICLR_Amortised Map Inference for Image Super_Resolution
