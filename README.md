@@ -22,6 +22,7 @@ List of reviewing papers
   - [review](./Reviews/Enhancenet/Enhancenet.md)
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
+  - [review](./Reviews/VDSR/VDSR.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
   - arxiv: https://arxiv.org/abs/1611.05250
   - [review](./Reviews/VESPCN/VESPCN.md)
