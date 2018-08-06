@@ -2,10 +2,8 @@
 
 List of reviewing papers
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-  SRCNN_2014_ECCV_Learning a Deep Convolutional Network for Image Super-Resolution
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-  SRCNN_2016_PAMI_Image Super-Resolution Using Deep Convolutional Networks
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)SRCNN_2014_ECCV_Learning a Deep Convolutional Network for Image Super-Resolution
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)SRCNN_2016_PAMI_Image Super-Resolution Using Deep Convolutional Networks
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) CSCN_2015_ICCV_Deep Networks for Image Super-Resolution with Sparse Prior
   - cvf: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Deep_Networks_for_ICCV_2015_paper.pdf
   - page: http://www.ifp.illinois.edu/~dingliu2/iccv15/
@@ -15,19 +13,16 @@ List of reviewing papers
   - [review](./Reviews/CSCN_ACCV/CSCN_ACCV.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) CSCN_2016_PAMI_Robust Single Image Super-Resolution via Deep Networks with Sparse Prior
   - [review](./Reviews/CSCN_PAMI/CSCN_PAMI.md)
-- ![#003c15](https://placehold.it/15/003c15/000000?text=+) 
-  DRCN_2016_CVPR_Deeply-Recursive Convolutional Network for Image Super-Resolution
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) DRCN_2016_CVPR_Deeply-Recursive Convolutional Network for Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1511.04491
   - [review](./Reviews/DRCN/DRCN.md)
-- ![#003c15](https://placehold.it/15/003c15/000000?text=+)
-  EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Synthesis
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+)EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Synthesis
   - arxiv: https://arxiv.org/abs/1612.07919
   - github(tensorflow): https://github.com/msmsajjadi/EnhanceNet-Code
   - [review](./Reviews/Enhancenet/Enhancenet.md)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
-  FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) FSRCNN_2016_ECCV_Accelerating the Super-Resolution Convolutional Neural Network
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) VDSR_2016_CVPR_Accurate Image Super_Resolution Using Very Deep Convolutional Networks
-- ![#003c15](https://placehold.it/15/003c15/000000?text=+)VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) VESPCN_2016_ArXiv_Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
   - arxiv: https://arxiv.org/abs/1611.05250
   - [review](./Reviews/VESPCN/VESPCN.md)
 - AffGAN_2017_ICLR_Amortised Map Inference for Image Super_Resolution
