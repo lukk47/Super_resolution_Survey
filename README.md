@@ -17,7 +17,7 @@ List of reviewing papers
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) DRCN_2016_CVPR_Deeply-Recursive Convolutional Network for Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1511.04491
   - [review](./Reviews/DRCN/DRCN.md)
-- ![#003c15](https://placehold.it/15/003c15/000000?text=+)EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Synthesis
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) EnhanceNet_2016_ArXiv_Single Image Super_resolution through Automated Texture Synthesis
   - arxiv: https://arxiv.org/abs/1612.07919
   - github(tensorflow): https://github.com/msmsajjadi/EnhanceNet-Code
   - [review](./Reviews/Enhancenet/Enhancenet.md)
@@ -32,14 +32,14 @@ List of reviewing papers
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) DEGREE_2017_TIP_Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1604.08671
   - [review](./Reviews/DEGREE/DEGREE.md)
-- ![#003c15](https://placehold.it/15/003c15/000000?text=+)DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) DRNN_2017_CVPR_Image Super-Resolution via Deep Recursive Residual Network
   - [review](https://github.com/tyshiwo/DRRN_CVPR17)
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) EDSR_2017_CVPRW_Enhanced Deep Residual Networks for Single Image Super-Resolution
   - arxiv: https://arxiv.org/abs/1707.02921
   - github(Pytorch): https://github.com/thstkdgus35/EDSR-PyTorch
   - github(Torch): https://github.com/LimBee/NTIRE2017
   - [review](./Reviews/EDSR_2017_CVPRW_Enhanced%20Deep%20Residual%20Networks%20for%20Single%20Image%20Super-Resolution/EDSR_2017_CVPRW_Enhanced%20Deep%20Residual%20Networks%20for%20Single%20Image%20Super-Resolution.md)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)GUN_2017_ArXiv_Gradual Upsampling Network for single image super-resolution
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) GUN_2017_ArXiv_Gradual Upsampling Network for single image super-resolution
   - [review](./Reviews/GUN/GUN.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) LapSRN_2017_CVPR_Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
   - [review](./Reviews/LapSRN/LapSRN.md)
@@ -49,34 +49,34 @@ List of reviewing papers
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CincGan_2018_CVPR_Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks
   - [review](./Reviews/CincGan/CincGan.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) EMBSR_2018_CVPR_Efficient Module Based Single Image Super Resolution for Multiple Problems
-  - cvf: http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Park_Efficient_Module_Based_CVPR_2018_paper.pdf
+  - [cvf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Park_Efficient_Module_Based_CVPR_2018_paper.pdf)
   - [review](./Reviews/EMBSR/EMBSR.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) ProSR_2018_CVPR_A Fully Progressive Approach to Single-Image Super-Resolution
   - [review](./Reviews/ProSR/ProSR.md)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)DRRN_2018_CVPR_Image Super-Resolution via Deep Recursive Residual Network
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) DRRN_2018_CVPR_Image Super-Resolution via Deep Recursive Residual Network
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) LRFNets_2018_CVPR_Large Receptive Field Networks for High-Scale Image Super-Resolution
   - [review](./Reviews/LRFNets/LRFNets.md)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) D-DBPN_2018_CVPR_Deep Back-Projection Networks For Super-Resolution
   - [review](./Reviews/DBPN/DBPN.md)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) RDN_2018_CVPR_Residual Dense Network for Image Super-Resolution
   - [review](./Reviews/RDN/RDN.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) SFT-GAN_2018_CVPR_Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
   - website: http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/
   - github: https://github.com/xinntao/CVPR18-SFTGAN
   - [review](./Reviews/SFT-GAN/SFT-GAN.md)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)2018_CVPR_Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2018_CVPR_Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation
   - [review](./Reviews/DVSR/DVSR.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) 2018_CVPR_SRMD_Learning a Single Convolutional Super-Resolution Network for Multiple Degradations
-  - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_a_Single_CVPR_2018_paper.pdf
+  - [cvf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_a_Single_CVPR_2018_paper.pdf)
   - github: https://github.com/cszn/SRMD
   - [review](./Reviews/SRMD/SRMD.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs
-  - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Deep_Photo_Enhancer_CVPR_2018_paper.pdf
+  - [cvf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Deep_Photo_Enhancer_CVPR_2018_paper.pdf)
   - github: https://github.com/nothinglo/Deep-Photo-Enhancer
   - [review](./Reviews/DeepPhotoEnhancer/DPE.md)
 - ![#003c15](https://placehold.it/15/003c15/000000?text=+) RCAN_2018_ECCV_Image_Super-Resolution Using Very Deep Residual Channel Attention Networkds
   - arxiv: https://arxiv.org/abs/1807.02758
-  - [cvf]: (http://openaccess.thecvf.com/content_ECCV_2018/papers/Yulun_Zhang_Image_Super-Resolution_Using_ECCV_2018_paper.pdf)
+  - [cvf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yulun_Zhang_Image_Super-Resolution_Using_ECCV_2018_paper.pdf)
   - [supplementary](http://yulunzhang.com/papers/ECCV-2018-RCAN_supp.pdf)
   - github(Pytorch): https://github.com/yulunzhang/RCAN
-  - [review](./Reviews/RCAN/RCANDPE.md)
+  - [review](./Reviews/RCAN/RCAN.md)
