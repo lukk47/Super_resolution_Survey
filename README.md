@@ -74,3 +74,9 @@ List of reviewing papers
   - cvf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Deep_Photo_Enhancer_CVPR_2018_paper.pdf
   - github: https://github.com/nothinglo/Deep-Photo-Enhancer
   - [review](./Reviews/DeepPhotoEnhancer/DPE.md)
+- ![#003c15](https://placehold.it/15/003c15/000000?text=+) RCAN_2018_ECCV_Image_Super-Resolution Using Very Deep Residual Channel Attention Networkds
+  - arxiv: https://arxiv.org/abs/1807.02758
+  - [cvf]: (http://openaccess.thecvf.com/content_ECCV_2018/papers/Yulun_Zhang_Image_Super-Resolution_Using_ECCV_2018_paper.pdf)
+  - [supplementary](http://yulunzhang.com/papers/ECCV-2018-RCAN_supp.pdf)
+  - github(Pytorch): https://github.com/yulunzhang/RCAN
+  - [review](./Reviews/RCAN/RCANDPE.md)
